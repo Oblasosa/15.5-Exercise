@@ -21,7 +21,7 @@ function createInstructor(firstName, lastName) {
 // instructor[favoriteNumber] = "That is my favorite!"
 
 let favNum = 42
-let instructor = {
+let instructor1 = {
         firstName : ['Colt'],
         [favNum]: "That is my favorite!"
 }
@@ -38,7 +38,7 @@ let instructor = {
 //     }
 //   }
   
- let instructor = {
+ let instructor2 = {
     firstName: ['Colt'],
     sayHi() {
         return "Hi!";
